@@ -26,9 +26,9 @@ Through this projects I picked up important skills on the basics of Javascript a
 
 # Images
 ### Start Screen 
-![Start Screen](/assets/img1.png)
+![Start Screen](/game_final/assets/img1.png)
 ### In Game
-![Game Display](/assets/img2.png)
+![Game Display](/game_final/assets/img2.png)
 ### Game Over 
-![Game Over Win](/assets/img3.png)
-![Game Over Loss](/assets/img4.png)
+![Game Over Win](/game_final/assets/img3.png)
+![Game Over Loss](/game_final/assets/img4.png)
